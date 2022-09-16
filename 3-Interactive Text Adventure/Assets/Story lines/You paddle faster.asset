@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
-  m_Name: Introduction
+  m_Name: You paddle faster
   m_EditorClassIdentifier: 
-  storyText: "You arrive at the lodge, ready for a great trip. Your tour guide gives
-    you three options: \n\n1 - Drive\n2 - Walk\n3 - Paddle a Canoe"
+  storyText: "You paddle faster. \r\n\n...But the piranhas follow you and get aggressive.
+    They overturn your boat!! You\u2026 \r\n\n1 - Swim to the shore. \r\n2 - Try
+    to get back in the boat. \r\n"
   nextStates:
-  - {fileID: 11400000, guid: 4e0b009fcf6b6d84bae1c0469cb602b8, type: 2}
-  - {fileID: 11400000, guid: af9b4ff466e52cc42b2ac8d139b26e5d, type: 2}
-  - {fileID: 11400000, guid: b299751b515dff047ab2eb8c5d86bf8c, type: 2}
+  - {fileID: 11400000, guid: 07ad7ca838c65254d8077fc1ca974a4c, type: 2}
+  - {fileID: 11400000, guid: 6656dc1e2b63e074f9ef6c4f6a5519ec, type: 2}

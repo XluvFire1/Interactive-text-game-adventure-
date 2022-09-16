@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
-  m_Name: You Answered the door
+  m_Name: Its A Sloth
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "It\u2019s a sloth!\r\n\nAnd it\u2019s so cute! You\u2026. \r\n\n1 -
+    Approach the animal. \r\n2 - Take photos from a distance. \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 4df20de534e70a6469b707811d10c1f7, type: 2}
+  - {fileID: 11400000, guid: a2c5881e66890f44caf727ef57a43a26, type: 2}

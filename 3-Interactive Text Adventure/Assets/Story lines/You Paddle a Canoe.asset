@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
+  m_Name: You Paddle a Canoe
+  m_EditorClassIdentifier: 
+  storyText: "You take a canoe.\nYou\u2019re admiring the beautiful landscape from
+    the canoe when you feel a presence. You realize a school of piranhas is under
+    your canoe. What do you do? \r\n\n1 -Stop and Take \r\nPictures.\r\n2 - Paddle
+    faster. \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: a2c5881e66890f44caf727ef57a43a26, type: 2}
+  - {fileID: 11400000, guid: 4df805ab42e388444bbb9fbafbc3aa29, type: 2}

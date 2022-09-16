@@ -10,11 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
-  m_Name: Introduction
+  m_Name: You Fail
   m_EditorClassIdentifier: 
-  storyText: "You arrive at the lodge, ready for a great trip. Your tour guide gives
-    you three options: \n\n1 - Drive\n2 - Walk\n3 - Paddle a Canoe"
+  storyText: "You fail. \r\n\nMaybe a rainforest adventure wasn\u2019t the best vacation
+    choice for you after all\u2026\r\n\n\n1 - Start over\r?\n"
   nextStates:
-  - {fileID: 11400000, guid: 4e0b009fcf6b6d84bae1c0469cb602b8, type: 2}
-  - {fileID: 11400000, guid: af9b4ff466e52cc42b2ac8d139b26e5d, type: 2}
-  - {fileID: 11400000, guid: b299751b515dff047ab2eb8c5d86bf8c, type: 2}
+  - {fileID: 11400000, guid: 418eb14333533814fb07105b0f5e5662, type: 2}

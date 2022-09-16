@@ -10,11 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
-  m_Name: Introduction
+  m_Name: You walk
   m_EditorClassIdentifier: 
-  storyText: "You arrive at the lodge, ready for a great trip. Your tour guide gives
-    you three options: \n\n1 - Drive\n2 - Walk\n3 - Paddle a Canoe"
+  storyText: "You decide to walk. \r\nAbout two miles from the lodge, you hear a
+    noise coming from a tree. \r\n\r\nWhat is it???\r\n\n1 - A sloth\r\n2 - An anaconda\r\n"
   nextStates:
-  - {fileID: 11400000, guid: 4e0b009fcf6b6d84bae1c0469cb602b8, type: 2}
-  - {fileID: 11400000, guid: af9b4ff466e52cc42b2ac8d139b26e5d, type: 2}
-  - {fileID: 11400000, guid: b299751b515dff047ab2eb8c5d86bf8c, type: 2}
+  - {fileID: 11400000, guid: 39eb0776cf3f1974abf06b5922ff6806, type: 2}
+  - {fileID: 11400000, guid: e46963aea828a564295a6ad77268842d, type: 2}

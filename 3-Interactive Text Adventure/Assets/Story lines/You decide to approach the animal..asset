@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
+  m_Name: You decide to approach the animal.
+  m_EditorClassIdentifier: 
+  storyText: "You decide to approach the animal. \r\nBut your movement scares it.\r...
+    What happens next?\r\n\n1 - Take photos from a distance.\r\n\n2 - \rThe animal
+    attacks!\r\n\nYou Decide to Approach the Animal.\nBut your Movement Scares it.....
+    What Happens Next?"
+  nextStates:
+  - {fileID: 11400000, guid: a2c5881e66890f44caf727ef57a43a26, type: 2}
+  - {fileID: 11400000, guid: 3417584e22eb9554293d4b951ac8c3b8, type: 2}
