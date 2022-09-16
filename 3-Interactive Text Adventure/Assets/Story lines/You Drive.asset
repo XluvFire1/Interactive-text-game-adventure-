@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fec0c296ccfae7647a9b7182e17554c9, type: 3}
   m_Name: You Drive
   m_EditorClassIdentifier: 
-  storyText: "You decide to Drive.\nAs you\u2019re driving, you see a spider monkey.
-    Then there is another on the other side. You realize you\u2019re in the middle
-    of the troop. \r\n\r\nWhat do you do? \r\n\n1 - Make a loud noise to scare the
-    monkeys away. \r\n2 - Speed up to dodge the monkeys. \r\n"
+  storyText: "You decide to Drive.\nAs you\u2019re driving, you see a group of monkey's.
+    Then there is another group on the other side. You realize you\u2019re in the
+    middle of the troop. \r\n\r\nWhat do you do? \r\n\n1 - Make a loud noise to scare
+    the monkeys away. \r\n2 - Speed up to dodge the monkeys. \r\n"
   nextStates:
   - {fileID: 11400000, guid: 2dd0ec3182b81204eb7adf739465f1e9, type: 2}
   - {fileID: 11400000, guid: 369177a179c0b5341871cacc693e0242, type: 2}
